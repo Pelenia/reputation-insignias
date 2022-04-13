@@ -9,6 +9,8 @@
 
 Reputation insignias allow users to prove their credibility in a community or DAO. They can enhance governance, improve user networking, or simply reduce spam.  Insignias are manually issued to community members who have accomplished an achievement, and can also manage treasuries.
 
+This project was made possible by a Zilhive grant.
+
 ## II. Abstract
 
 This repo defines a minimum interface for an insignia smart contract. 
